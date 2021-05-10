@@ -1,5 +1,7 @@
-<h1>👋 Hi, I’m Shubham Jha</h1>
+<h1>Hi 👋, I’m Shubham Jha</h1>
 
+
+![](https://komarev.com/ghpvc/?username=Kiraboi&color=orange)
 <h3>Languages & Tools:</h3>
 <div style="display: inline-block">
   <a href="https://www.python.org/" traget="_blank">
@@ -25,6 +27,17 @@
     <img src="https://www.stickee.co.uk/wp-content/uploads/2017/02/twitter-logo-2.png" alt="Shubham Jha" width="25" style="background-color: #fff">
   </a>
  </div>
+
+
+<br>
+
+<!---
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiraboi&show_icons=true&theme=tokyonight)
+--->
+
+<!---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiraboi&theme=tokyonight)
+--->
 
 
 <!---
